@@ -1,0 +1,9 @@
+{
+	"name": "adf-learning-yherziger-01",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b952f3de-cc01-40fa-8d52-8737cd750468",
+		"tenantId": "7eed1d44-f3ad-4a12-a30d-53ed2e0cc250"
+	}
+}
